@@ -4,6 +4,12 @@
 
 This project analyzes an e-commerce dataset to uncover insights related to customer behavior, traffic sources, marketing campaigns, product performance, customer retention, and revenue generation.
 
+## Dashboard Preview
+- Executive DashBoard
+  <img width="695" height="394" alt="image" src="https://github.com/user-attachments/assets/11f209da-35ec-4b4f-9e44-2507ef9e32c6" />
+- Customer and Product Insights Dashboard
+  <img width="691" height="391" alt="image" src="https://github.com/user-attachments/assets/91590b08-4d3a-4642-a196-1d6bc688aef9" />
+
 ## Tools Used
 
 - SQL
